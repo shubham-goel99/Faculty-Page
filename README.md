@@ -1,0 +1,1 @@
+Developed a auto-fill faculty page using django web framework which asks user to fill information in a form and generates the faculty page and with extra features like automatic python scraping of the professor publication from IIT Guwahati website data and a facility to add reminders which will get automatically sorted by earliest date.
